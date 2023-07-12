@@ -9,7 +9,7 @@ const Hero = () => {
     <Section>
       <Box
         display="flex"
-        flexDirection={{ xs: "column-reverse", md: "row" }}
+        flexDirection={{ xs: "column", md: "row" }}
         alignItems="center"
         gap={12}
         justifyContent="space-between"

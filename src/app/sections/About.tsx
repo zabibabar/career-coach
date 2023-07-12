@@ -8,24 +8,24 @@ import VolunteerActivismIcon from "@mui/icons-material/VolunteerActivism";
 
 const accomplishments = [
   {
-    title: "Courageous Risk-Taker",
-    description: "Immigrated to the US alone at 19",
-    icon: <FlightTakeoffIcon />,
-  },
-  {
     title: "Academic Trailblazer",
     description: "Graduated early with Honors and Summa Cum Laude",
     icon: <SchoolIcon />,
   },
   {
     title: "Versatile Professional",
-    description: "Experience working in Startup and Fortune 100 Companies",
+    description: "Experience working in startup and Fortune 100 companies",
     icon: <BusinessIcon />,
   },
   {
     title: "Community-Minded",
-    description: "Founded Tampa Volunteers to Give Back to the Community",
+    description: "Founded Tampa Volunteers to give Back to the Community",
     icon: <VolunteerActivismIcon />,
+  },
+  {
+    title: "Courageous Risk-Taker",
+    description: "Immigrated to the US alone at 19",
+    icon: <FlightTakeoffIcon />,
   },
 ];
 

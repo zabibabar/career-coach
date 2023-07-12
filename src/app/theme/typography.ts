@@ -11,20 +11,20 @@ const typography = {
   fontSize: 12,
   fontFamily: poppins.style.fontFamily,
   h1: {
-    fontSize: 48,
+    fontSize: 76,
     fontWeight: 700,
   },
   h2: {
-    fontSize: 36,
+    fontSize: 48,
     fontWeight: 500,
   },
   h3: {
-    fontSize: 24,
-    fontWeight: 400,
+    fontSize: 30,
+    fontWeight: 500,
   },
   h4: {
     fontSize: 18,
-    fontWeight: 600,
+    fontWeight: 500,
   },
 };
 

@@ -124,7 +124,7 @@ export default function NavBar() {
         >
           {pages.map((page, index) => (
             <Button
-              color="secondary"
+              color="primary"
               key={index}
               {...(page.subMenu
                 ? { onClick: handleOpenSubMenu }
